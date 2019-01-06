@@ -1,5 +1,8 @@
 #!/bin/bash
 
+# Ce script a ete place sous Github le 06/01/2019
+# pour realiser l'activite du cours Openclassroom Git
+
 # Vérification de la presence du parametre du fichier dictionnaire 
 if [ -z $1 ] || [ ! -e $1 ]
 then
